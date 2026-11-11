@@ -1,3 +1,14 @@
+> **CultureReset fork of [twentyhq/twenty](https://github.com/twentyhq/twenty).** The open alternative to Salesforce, designed for AI.
+>
+> - **Why it is here:** Source reference for the Twenty CRM that NODE runs.
+> - **Does anything run from it:** No. NODE's CRMs run the official Twenty image, not a build of this fork.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/twentyhq/twenty).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="center">
   <a href="https://www.twenty.com">
     <img src="./packages/twenty-website/public/images/core/logo.svg" width="100px" alt="Twenty logo" />
